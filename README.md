@@ -1,12 +1,29 @@
-Para criar apps e ter certeza que tá funcionando, não se trata de ter rotas e banco de dados, se trata de ter testes!
+## 📚 Node API with S.O.L.I.D and TDD
+<p>This application was developed following the Rocketseat video <a><i>https://www.youtube.com/watch?v=mjBsii0eiuI&ab_channel=Rocketseat</i></a> to learn how to work with a Node API using S.O.L.I.D principles and applying unit tests using the development technique TDD — <i>Test-driven development</i></p>
 
-TDD é metodologia de desenvolvimento, não precisa seguir em todas as ocasiões (Guia o desenvolvimento)
+## 🌐 Status
+<p>Finished project ✅</p>
 
-========== COMANDOS UTILIZADOS AO LONGO DO DESENVOLVIMENTO DO APP ==========
+## 🧰 Prerequisites
+<p>Node JS</p>
 
-~ yarn add typescript @types/node -D
-~ npx tsc --init
-~ yarn add jest @swc/core @swc/jest -D
-~ npx jest --init (yes, yes, node, no, v8, yes)
-~ yarn add ts-node -D 
-~ yarn add @types/jest -D
+## 🔧 Installation
+`$ git clone https://github.com/AllanDutra/scalable-node-js-apis-with-solid-and-tdd.git`
+
+`$ cd scalable-node-js-apis-with-solid-and-tdd`
+
+`$ npm install`
+
+`$ npm run test`
+
+## 🔨 Tools used
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="80" />
+</div>
+
+<hr>
+
+Developed with 💜 by Allan Dutra!
